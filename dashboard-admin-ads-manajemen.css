@@ -1,0 +1,1005 @@
+.dashboard-admin-ads-manajemen-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.dashboard-admin-ads-manajemen-dashboard-admin-ads-manajemen {
+  width: 100%;
+  height: 1580px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(41, 54, 121, 1);
+}
+.dashboard-admin-ads-manajemen-new-design {
+  top: 0px;
+  left: 19.999902725219727px;
+  width: 1900px;
+  height: 1580px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-main-dashboard {
+  top: 0px;
+  left: 246.5px;
+  width: 1653.5px;
+  height: 1580px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-background {
+  top: 0px;
+  left: 0px;
+  width: 1653.5px;
+  height: 1580px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 249, 250, 1);
+}
+.dashboard-admin-ads-manajemen-footer-menu {
+  top: 1538.5px;
+  left: 31.500049591064453px;
+  width: 1600px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-menu {
+  top: -0.000024452268917229958px;
+  left: 1277.5px;
+  width: 322.5px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-text {
+  top: -0.000024452268917229958px;
+  left: 281px;
+  color: var(--dl-color-gray-gray400);
+  width: 41px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-text02 {
+  top: -0.000024452268917229958px;
+  left: 212.49998474121094px;
+  color: var(--dl-color-gray-gray400);
+  width: 24px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-text04 {
+  top: -0.000024452268917229958px;
+  left: 111.50001525878906px;
+  color: var(--dl-color-gray-gray400);
+  width: 57px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-text06 {
+  color: var(--dl-color-gray-gray400);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-copyright {
+  top: 0px;
+  left: 0px;
+  width: 372.5px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-text08 {
+  color: rgba(160, 174, 192, 1);
+  width: 372px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-text09 {
+  color: var(--dl-color-gray-gray400);
+  font-weight: 400;
+}
+.dashboard-admin-ads-manajemen-text10 {
+  color: rgba(56, 178, 172, 1);
+  font-weight: 700;
+}
+.dashboard-admin-ads-manajemen-text11 {
+  color: var(--dl-color-gray-gray400);
+  font-weight: 400;
+}
+.dashboard-admin-ads-manajemen-text12 {
+  color: rgba(56, 178, 172, 1);
+  font-weight: 700;
+}
+.dashboard-admin-ads-manajemen-breadcrumb {
+  top: 22.5px;
+  left: 47.999900817871094px;
+  width: 1558px;
+  height: 52.500022888183594px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-menu1 {
+  top: 0px;
+  left: 1223px;
+  width: 335px;
+  height: 39.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-frame-input-with-addons {
+  top: 0px;
+  left: 0px;
+  width: 199px;
+  height: 39.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(226, 232, 240, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 15.000000953674316px;
+  background-color: var(--dl-color-black&amp;white-white);
+}
+.dashboard-admin-ads-manajemen-autoaddedframe {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.dashboard-admin-ads-manajemen-addon {
+  gap: 5px;
+  height: 20px;
+  display: flex;
+  padding: 4px 6.000000476837158px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-admin-ads-manajemen-icon {
+  width: 15px;
+  height: 15px;
+}
+.dashboard-admin-ads-manajemen-frame-input-field-text {
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.dashboard-admin-ads-manajemen-text14 {
+  color: var(--dl-color-gray-gray400);
+  width: 63px;
+  height: auto;
+  font-size: 12.000000953674316px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-frame-min-width {
+  display: flex;
+  padding: 0 74.00000762939453px;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.dashboard-admin-ads-manajemen-content {
+  width: 0px;
+  height: 0px;
+}
+.dashboard-admin-ads-manajemen-list-item-default {
+  gap: 4px;
+  top: 11.500024795532227px;
+  left: 217.00001525878906px;
+  width: 58px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-admin-ads-manajemen-ion-icon-ppersondefault {
+  width: 12px;
+  height: 12px;
+}
+.dashboard-admin-ads-manajemen-text16 {
+  color: var(--dl-color-gray-gray500);
+  width: 66px;
+  height: auto;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-ion-icon-ssettingssharp {
+  top: 14.000024795532227px;
+  left: 294px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-ion-icon-nnotificationsdefault {
+  top: 14.000024795532227px;
+  left: 323px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-text18 {
+  top: 9.000024795532227px;
+  left: 0px;
+  width: 159.5px;
+  height: 43.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-text19 {
+  top: 23.5px;
+  left: 0.5px;
+  color: var(--dl-color-gray-gray700);
+  width: 159px;
+  height: auto;
+  position: absolute;
+  font-size: 14.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-sidebar {
+  top: 43.999969482421875px;
+  left: 0px;
+  width: 237.7500457763672px;
+  height: 596.0000610351562px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-menu2 {
+  top: 85.00006866455078px;
+  left: 0px;
+  width: 219.5px;
+  height: 511px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-rectangle2 {
+  top: 417px;
+  left: 0.0001220703125px;
+  width: 219px;
+  height: 54px;
+  position: absolute;
+  border-radius: 15.000000953674316px;
+}
+.dashboard-admin-ads-manajemen-sign-up {
+  top: 481px;
+  left: 28px;
+  width: 87.5px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-radius: 12.000000953674316px;
+}
+.dashboard-admin-ads-manajemen-ion-icon-rrocketsharp {
+  top: 7.5px;
+  left: 7.5px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-text21 {
+  top: 6.000006198883057px;
+  left: 41.99995040893555px;
+  color: var(--dl-color-gray-gray400);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-sign-in {
+  top: 311.99993896484375px;
+  left: 27.500099182128906px;
+  width: 173.4998779296875px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-rectangle31 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-radius: 12.000000953674316px;
+}
+.dashboard-admin-ads-manajemen-ion-icon-ddocumentdefault {
+  top: 7.499975681304932px;
+  left: 7.5px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-text23 {
+  top: 6px;
+  left: 42.4998779296875px;
+  color: var(--dl-color-gray-gray400);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-profile {
+  top: 257.9999694824219px;
+  left: 27.500099182128906px;
+  width: 173.4998779296875px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-rectangle32 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-radius: 12.000000953674316px;
+}
+.dashboard-admin-ads-manajemen-ion-icon-ppersondefault1 {
+  top: 7.500012397766113px;
+  left: 7.5px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-text25 {
+  top: 6px;
+  left: 42.4998779296875px;
+  color: var(--dl-color-gray-gray400);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-text27 {
+  top: 215.9999542236328px;
+  left: 27.500099182128906px;
+  color: rgba(255, 255, 255, 1);
+  width: 105px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-tables {
+  top: 53.999977111816406px;
+  left: 27.5001220703125px;
+  width: 181.4998779296875px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-mdiusers {
+  top: 24px;
+  left: 30px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dashboard-admin-ads-manajemen-text29 {
+  top: 6px;
+  left: 42.4998779296875px;
+  color: var(--dl-color-gray-gray400);
+  width: 139px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-group2027 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dashboard-admin-ads-manajemen-vector {
+  top: 8px;
+  left: 7.4998779296875px;
+  width: 16px;
+  height: 13px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-tables1 {
+  top: 107.9999771118164px;
+  left: 28px;
+  width: 181.4998779296875px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-mdiusers1 {
+  top: 24px;
+  left: 30px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dashboard-admin-ads-manajemen-text31 {
+  top: 6px;
+  left: 42.4998779296875px;
+  color: var(--dl-color-gray-gray400);
+  width: 139px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-group20271 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dashboard-admin-ads-manajemen-vector1 {
+  top: 8px;
+  left: 7.4998779296875px;
+  width: 16px;
+  height: 13px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-tables2 {
+  top: 164.99996948242188px;
+  left: 28px;
+  width: 181.4998779296875px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-mdiusers2 {
+  top: 24px;
+  left: 30px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dashboard-admin-ads-manajemen-text33 {
+  top: 6px;
+  left: 42.4998779296875px;
+  color: var(--dl-color-gray-gray400);
+  width: 139px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-group20272 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dashboard-admin-ads-manajemen-vector2 {
+  top: 8px;
+  left: 7.4998779296875px;
+  width: 16px;
+  height: 13px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-dashboard {
+  top: 0px;
+  left: 27.5px;
+  width: 104.99995422363281px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-rectangle33 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-radius: 12.000000953674316px;
+}
+.dashboard-admin-ads-manajemen-ion-icon-hhomedefault {
+  top: 7.5px;
+  left: 7.5px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-text35 {
+  top: 5.999975204467773px;
+  left: 41.99995422363281px;
+  color: rgba(160, 174, 192, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-logo {
+  top: 0px;
+  left: 22.000097274780273px;
+  width: 198px;
+  height: 23.000059127807617px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-text37 {
+  top: 2.000058174133301px;
+  left: 34px;
+  color: rgba(255, 255, 255, 1);
+  width: 164px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Condensed Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: condensed;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-logocreativetimblack {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 22.001371383666992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-icon1 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 22.001371383666992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-shape {
+  top: 1.4921397450962104e-13px;
+  left: -2.984279490192421e-13px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-path {
+  top: 4.137571334838867px;
+  left: 3.081974983215332px;
+  width: 5px;
+  height: 3px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-path1 {
+  top: 4.137571334838867px;
+  left: 13.460993766784668px;
+  width: 5px;
+  height: 3px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-path2 {
+  top: 14.486326217651367px;
+  left: 8.285944938659668px;
+  width: 5px;
+  height: 3px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-vector6 {
+  top: 50.50006103515625px;
+  left: 4.500051498413086px;
+  width: 233px;
+  height: 1px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.dashboard-admin-ads-manajemen-line10 {
+  top: 486px;
+  left: 29px;
+  width: 201px;
+  height: 1px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-sign-in1 {
+  top: 558px;
+  left: 48px;
+  width: 173.4998779296875px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-rectangle34 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-radius: 12.000000953674316px;
+}
+.dashboard-admin-ads-manajemen-ion-icon-ddocumentdefault1 {
+  top: 7.499975681304932px;
+  left: 7.5px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-text39 {
+  top: 6px;
+  left: 42.4998779296875px;
+  color: var(--dl-color-gray-gray400);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-sign-in2 {
+  top: 505px;
+  left: 48px;
+  width: 173.4998779296875px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-rectangle35 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-radius: 12.000000953674316px;
+}
+.dashboard-admin-ads-manajemen-ion-icon-ddocumentdefault2 {
+  top: 7.499975681304932px;
+  left: 7.5px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-text41 {
+  top: 6px;
+  left: 42.4998779296875px;
+  color: var(--dl-color-gray-gray400);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-rectangle1145 {
+  top: 263px;
+  left: 305px;
+  width: 1527px;
+  height: 266px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-image1913799421 {
+  top: 324px;
+  left: 819px;
+  width: 180px;
+  height: 116px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-phrilogo-b0681aec5-cseeklogo1 {
+  top: 334px;
+  left: 737px;
+  width: 98px;
+  height: 99px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-image1 {
+  top: 343px;
+  left: 537px;
+  width: 194px;
+  height: 96px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-kisspnglogobankbjbsyariahportablenetworkgraphicsde {
+  top: 343px;
+  left: 395px;
+  width: 133px;
+  height: 77px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-drizt1 {
+  top: 330px;
+  left: 991px;
+  width: 108px;
+  height: 108px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-madu1 {
+  top: 330px;
+  left: 1134px;
+  width: 108px;
+  height: 108px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-group2030 {
+  top: 161px;
+  left: 324px;
+  width: 365px;
+  height: 56px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-rectangle1144 {
+  top: 0px;
+  left: 249px;
+  width: 116px;
+  height: 56px;
+  position: absolute;
+}
+.dashboard-admin-ads-manajemen-text43 {
+  top: 17px;
+  left: 281px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-ads-manajemen-firstandlastname {
+  top: 0px;
+  left: 0px;
+  width: 365px;
+  height: 56px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-ads-manajemen-text-field-outlined {
+  top: 0px;
+  left: 0px;
+  width: 365px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.dashboard-admin-ads-manajemen-input {
+  display: flex;
+  padding: 0 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 0.23000000417232513);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.dashboard-admin-ads-manajemen-inactive {
+  gap: 8px;
+  display: flex;
+  padding: 16px 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dashboard-admin-ads-manajemen-text45 {
+  color: var(--dl-color-default-secondarycolortext);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}
+.dashboard-admin-ads-manajemen-kepemudaan2 {
+  top: 34px;
+  left: 21px;
+  width: 53px;
+  height: 45px;
+  position: absolute;
+}

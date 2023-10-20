@@ -1,0 +1,672 @@
+.halaman-lowongan-kerja-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.halaman-lowongan-kerja-halaman-lowongan-kerja {
+  width: 100%;
+  height: 2309px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.halaman-lowongan-kerja-text {
+  top: 51px;
+  left: 109px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-text02 {
+  top: 51px;
+  left: 372px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-text04 {
+  top: 51px;
+  left: 464px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-text06 {
+  top: 51px;
+  left: 674px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-text08 {
+  top: 51px;
+  left: 873px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-text10 {
+  top: 51px;
+  left: 1036px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-text12 {
+  top: 51px;
+  left: 1130px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-navlink {
+  display: contents;
+}
+.halaman-lowongan-kerja-group1 {
+  top: 45px;
+  left: 1224px;
+  width: 99px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+  background-color: rgba(0, 110, 239, 1);
+}
+.halaman-lowongan-kerja-text14 {
+  top: 6px;
+  left: 17px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-rectangle2 {
+  top: 128px;
+  left: 0px;
+  width: 1440px;
+  height: 451px;
+  position: absolute;
+}
+.halaman-lowongan-kerja-text16 {
+  top: 317px;
+  left: 403px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-nav1 {
+  top: 1754px;
+  left: 0px;
+  width: 1440px;
+  height: 555px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(30, 40, 50, 1);
+}
+.halaman-lowongan-kerja-row1 {
+  top: 50px;
+  left: 186px;
+  width: 1068px;
+  height: 91px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-lowongan-kerja-cta {
+  top: 0px;
+  left: 640px;
+  width: 428px;
+  height: 50px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.halaman-lowongan-kerja-button {
+  top: 0px;
+  left: 253px;
+  width: 175px;
+  height: 50px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.halaman-lowongan-kerja-navlink1 {
+  display: contents;
+}
+.halaman-lowongan-kerja-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 175px;
+  height: 50px;
+  position: absolute;
+  border-radius: 8px;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-text18 {
+  top: 14px;
+  left: 62px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-divider {
+  top: 90px;
+  left: 0px;
+  width: 1068px;
+  height: 1px;
+  opacity: 0.10;
+  position: absolute;
+}
+.halaman-lowongan-kerja-row2 {
+  top: 181px;
+  left: 186px;
+  width: 629px;
+  height: 182px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-lowongan-kerja-newsletter {
+  top: 0px;
+  left: 0px;
+  width: 289px;
+  height: 139px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.halaman-lowongan-kerja-text20 {
+  color: rgba(255, 255, 255, 1);
+  width: 272px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-services {
+  top: 0px;
+  left: 523px;
+  width: 106px;
+  height: 182px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.halaman-lowongan-kerja-text22 {
+  color: rgba(255, 210, 221, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-text24 {
+  top: 42px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-text26 {
+  top: 82px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-text28 {
+  top: 122px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-text30 {
+  top: 162px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-row3 {
+  top: 433px;
+  left: 186px;
+  width: 1068px;
+  height: 22px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.halaman-lowongan-kerja-text32 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-text34 {
+  top: 2px;
+  left: 173px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-social {
+  top: 0px;
+  left: 934.038330078125px;
+  width: 133.96165466308594px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-lowongan-kerja-frame001facebook {
+  top: 1px;
+  left: 0px;
+  width: 9.923307418823242px;
+  height: 19.844961166381836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-lowongan-kerja-path {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 20px;
+  position: absolute;
+}
+.halaman-lowongan-kerja-frame003twitter {
+  top: 2px;
+  left: 49.96165466308594px;
+  width: 22px;
+  height: 17.875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-lowongan-kerja-path1 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 18px;
+  position: absolute;
+}
+.halaman-lowongan-kerja-frame004instagram {
+  top: 0px;
+  left: 111.96165466308594px;
+  width: 22px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-lowongan-kerja-shape {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.halaman-lowongan-kerja-shape1 {
+  top: 5.5px;
+  left: 5.5px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+.halaman-lowongan-kerja-oval {
+  top: 4.354625225067139px;
+  left: 16.179624557495117px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.halaman-lowongan-kerja-text36 {
+  top: 1810px;
+  left: 644px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-text38 {
+  top: 626px;
+  left: 628px;
+  color: rgba(63, 63, 63, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-vector {
+  top: 51px;
+  left: 1354px;
+  width: 26px;
+  height: 27px;
+  position: absolute;
+}
+.halaman-lowongan-kerja-text40 {
+  top: 931px;
+  left: 136px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-text41 {
+  font-weight: 700;
+}
+.halaman-lowongan-kerja-text46 {
+  top: 1044px;
+  left: 136px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-text47 {
+  font-weight: 700;
+}
+.halaman-lowongan-kerja-text67 {
+  top: 371px;
+  left: 544px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-button1 {
+  top: 931px;
+  left: 978px;
+  width: 326px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.20000000298023224) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(0, 87, 255, 1);
+}
+.halaman-lowongan-kerja-unstyled-button {
+  gap: 8px;
+  display: flex;
+  padding: 8px 22px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.halaman-lowongan-kerja-content {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.halaman-lowongan-kerja-text69 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: left;
+  line-height: 26px;
+}
+.halaman-lowongan-kerja-text71 {
+  top: 1404px;
+  left: 134px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-lowongan-kerja-text72 {
+  font-weight: 700;
+}
+.halaman-lowongan-kerja-image1913799421 {
+  top: 732px;
+  left: 721px;
+  width: 180px;
+  height: 116px;
+  position: absolute;
+}
+.halaman-lowongan-kerja-phrilogo-b0681aec5-cseeklogo1 {
+  top: 742px;
+  left: 639px;
+  width: 98px;
+  height: 99px;
+  position: absolute;
+}
+.halaman-lowongan-kerja-image1 {
+  top: 751px;
+  left: 439px;
+  width: 194px;
+  height: 96px;
+  position: absolute;
+}
+.halaman-lowongan-kerja-kisspnglogobankbjbsyariahportablenetworkgraphicsde {
+  top: 751px;
+  left: 297px;
+  width: 133px;
+  height: 77px;
+  position: absolute;
+}
+.halaman-lowongan-kerja-drizt1 {
+  top: 738px;
+  left: 893px;
+  width: 108px;
+  height: 108px;
+  position: absolute;
+}
+.halaman-lowongan-kerja-madu1 {
+  top: 738px;
+  left: 1036px;
+  width: 108px;
+  height: 108px;
+  position: absolute;
+}
+.halaman-lowongan-kerja-kepemudaan1 {
+  top: 39px;
+  left: 44px;
+  width: 58px;
+  height: 54px;
+  position: absolute;
+}

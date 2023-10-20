@@ -1,0 +1,621 @@
+.halaman-berita-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.halaman-berita-halaman-berita {
+  width: 100%;
+  height: 2309px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.halaman-berita-text {
+  top: 51px;
+  left: 109px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-text02 {
+  top: 51px;
+  left: 372px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-text04 {
+  top: 51px;
+  left: 464px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-text06 {
+  top: 51px;
+  left: 674px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-text08 {
+  top: 51px;
+  left: 873px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-text10 {
+  top: 51px;
+  left: 1036px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-text12 {
+  top: 51px;
+  left: 1130px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-navlink {
+  display: contents;
+}
+.halaman-berita-group1 {
+  top: 45px;
+  left: 1224px;
+  width: 99px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+  background-color: rgba(0, 110, 239, 1);
+}
+.halaman-berita-text14 {
+  top: 6px;
+  left: 17px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-rectangle2 {
+  top: 128px;
+  left: 0px;
+  width: 1440px;
+  height: 451px;
+  position: absolute;
+}
+.halaman-berita-text16 {
+  top: 310px;
+  left: 358px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-nav1 {
+  top: 1754px;
+  left: 0px;
+  width: 1440px;
+  height: 555px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(30, 40, 50, 1);
+}
+.halaman-berita-row1 {
+  top: 50px;
+  left: 186px;
+  width: 1068px;
+  height: 91px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-berita-cta {
+  top: 0px;
+  left: 640px;
+  width: 428px;
+  height: 50px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.halaman-berita-button {
+  top: 0px;
+  left: 253px;
+  width: 175px;
+  height: 50px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.halaman-berita-navlink1 {
+  display: contents;
+}
+.halaman-berita-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 175px;
+  height: 50px;
+  position: absolute;
+  border-radius: 8px;
+  text-decoration: none;
+}
+.halaman-berita-text18 {
+  top: 14px;
+  left: 62px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-divider {
+  top: 90px;
+  left: 0px;
+  width: 1068px;
+  height: 1px;
+  opacity: 0.10;
+  position: absolute;
+}
+.halaman-berita-row2 {
+  top: 181px;
+  left: 186px;
+  width: 629px;
+  height: 182px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-berita-newsletter {
+  top: 0px;
+  left: 0px;
+  width: 289px;
+  height: 139px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.halaman-berita-text20 {
+  color: rgba(255, 255, 255, 1);
+  width: 272px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Light;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 300;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-services {
+  top: 0px;
+  left: 523px;
+  width: 106px;
+  height: 182px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.halaman-berita-text22 {
+  color: rgba(255, 210, 221, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-text24 {
+  top: 42px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-text26 {
+  top: 82px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-text28 {
+  top: 122px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-text30 {
+  top: 162px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-row3 {
+  top: 433px;
+  left: 186px;
+  width: 1068px;
+  height: 22px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.halaman-berita-text32 {
+  top: 2px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-text34 {
+  top: 2px;
+  left: 173px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-social {
+  top: 0px;
+  left: 934.038330078125px;
+  width: 133.96165466308594px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-berita-frame001facebook {
+  top: 1px;
+  left: 0px;
+  width: 9.923307418823242px;
+  height: 19.844961166381836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-berita-path {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  height: 20px;
+  position: absolute;
+}
+.halaman-berita-frame003twitter {
+  top: 2px;
+  left: 49.96165466308594px;
+  width: 22px;
+  height: 17.875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-berita-path1 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 18px;
+  position: absolute;
+}
+.halaman-berita-frame004instagram {
+  top: 0px;
+  left: 111.96165466308594px;
+  width: 22px;
+  height: 22px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.halaman-berita-shape {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.halaman-berita-shape1 {
+  top: 5.5px;
+  left: 5.5px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+.halaman-berita-oval {
+  top: 4.354625225067139px;
+  left: 16.179624557495117px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.halaman-berita-text36 {
+  top: 1810px;
+  left: 644px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  font-style: Regular;
+  text-align: left;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-text38 {
+  top: 626px;
+  left: 628px;
+  color: rgba(63, 63, 63, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 23px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-vector {
+  top: 51px;
+  left: 1354px;
+  width: 26px;
+  height: 27px;
+  position: absolute;
+}
+.halaman-berita-text40 {
+  top: 959px;
+  left: 153px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-text41 {
+  font-weight: 700;
+}
+.halaman-berita-text43 {
+  top: 993px;
+  left: 153px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-text44 {
+  font-weight: 700;
+}
+.halaman-berita-text46 {
+  top: 1055px;
+  left: 153px;
+  color: rgba(0, 0, 0, 1);
+  width: 1041px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.halaman-berita-image1913799421 {
+  top: 711px;
+  left: 721px;
+  width: 180px;
+  height: 116px;
+  position: absolute;
+}
+.halaman-berita-phrilogo-b0681aec5-cseeklogo1 {
+  top: 721px;
+  left: 639px;
+  width: 98px;
+  height: 99px;
+  position: absolute;
+}
+.halaman-berita-image1 {
+  top: 730px;
+  left: 439px;
+  width: 194px;
+  height: 96px;
+  position: absolute;
+}
+.halaman-berita-kisspnglogobankbjbsyariahportablenetworkgraphicsde {
+  top: 730px;
+  left: 297px;
+  width: 133px;
+  height: 77px;
+  position: absolute;
+}
+.halaman-berita-drizt1 {
+  top: 717px;
+  left: 893px;
+  width: 108px;
+  height: 108px;
+  position: absolute;
+}
+.halaman-berita-madu1 {
+  top: 717px;
+  left: 1036px;
+  width: 108px;
+  height: 108px;
+  position: absolute;
+}
+.halaman-berita-kepemudaan1 {
+  top: 39px;
+  left: 44px;
+  width: 58px;
+  height: 54px;
+  position: absolute;
+}

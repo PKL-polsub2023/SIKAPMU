@@ -1,0 +1,2496 @@
+.dashboard-admin-pemuda-pelopormodal-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-dashboard-admin-pemuda-pelopormodal {
+  width: 100%;
+  height: 1580px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(41, 54, 121, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-new-design {
+  top: 0px;
+  left: 24.499954223632812px;
+  width: 1895.5px;
+  height: 1580px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-main-dashboard {
+  top: 0px;
+  left: 241.9999542236328px;
+  width: 1653.5px;
+  height: 1580px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-background {
+  top: 0px;
+  left: 0px;
+  width: 1653.5px;
+  height: 1580px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(248, 249, 250, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-footer-menu {
+  top: 1538.5px;
+  left: 31.500049591064453px;
+  width: 1600px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-menu {
+  top: -0.000024452268917229958px;
+  left: 1277.5px;
+  width: 322.5px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-text {
+  top: -0.000024452268917229958px;
+  left: 281px;
+  color: var(--dl-color-gray-gray400);
+  width: 41px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-text002 {
+  top: -0.000024452268917229958px;
+  left: 212.49998474121094px;
+  color: var(--dl-color-gray-gray400);
+  width: 24px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-text004 {
+  top: -0.000024452268917229958px;
+  left: 111.50001525878906px;
+  color: var(--dl-color-gray-gray400);
+  width: 57px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-text006 {
+  color: var(--dl-color-gray-gray400);
+  width: 67px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-copyright {
+  top: 0px;
+  left: 0px;
+  width: 372.5px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-text008 {
+  color: rgba(160, 174, 192, 1);
+  width: 372px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-text009 {
+  color: var(--dl-color-gray-gray400);
+  font-weight: 400;
+}
+.dashboard-admin-pemuda-pelopormodal-text010 {
+  color: rgba(56, 178, 172, 1);
+  font-weight: 700;
+}
+.dashboard-admin-pemuda-pelopormodal-text011 {
+  color: var(--dl-color-gray-gray400);
+  font-weight: 400;
+}
+.dashboard-admin-pemuda-pelopormodal-text012 {
+  color: rgba(56, 178, 172, 1);
+  font-weight: 700;
+}
+.dashboard-admin-pemuda-pelopormodal-breadcrumb {
+  top: 22.5px;
+  left: 47.999900817871094px;
+  width: 1558px;
+  height: 52.500022888183594px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-menu1 {
+  top: 0px;
+  left: 1223px;
+  width: 335px;
+  height: 39.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-frame-input-with-addons {
+  top: 0px;
+  left: 0px;
+  width: 199px;
+  height: 39.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(226, 232, 240, 1);
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 15.000000953674316px;
+  background-color: var(--dl-color-black&amp;white-white);
+}
+.dashboard-admin-pemuda-pelopormodal-autoaddedframe {
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.dashboard-admin-pemuda-pelopormodal-addon {
+  gap: 5px;
+  height: 20px;
+  display: flex;
+  padding: 4px 6.000000476837158px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-admin-pemuda-pelopormodal-icon {
+  width: 15px;
+  height: 15px;
+}
+.dashboard-admin-pemuda-pelopormodal-frame-input-field-text {
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.dashboard-admin-pemuda-pelopormodal-text014 {
+  color: var(--dl-color-gray-gray400);
+  width: 63px;
+  height: auto;
+  font-size: 12.000000953674316px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-frame-min-width {
+  display: flex;
+  padding: 0 74.00000762939453px;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.dashboard-admin-pemuda-pelopormodal-content {
+  width: 0px;
+  height: 0px;
+}
+.dashboard-admin-pemuda-pelopormodal-list-item-default {
+  gap: 4px;
+  top: 11.500024795532227px;
+  left: 217.00001525878906px;
+  width: 58px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-admin-pemuda-pelopormodal-ion-icon-ppersondefault {
+  width: 12px;
+  height: 12px;
+}
+.dashboard-admin-pemuda-pelopormodal-text016 {
+  color: var(--dl-color-gray-gray500);
+  width: 66px;
+  height: auto;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-ion-icon-ssettingssharp {
+  top: 14.000024795532227px;
+  left: 294px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-ion-icon-nnotificationsdefault {
+  top: 14.000024795532227px;
+  left: 323px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-text018 {
+  top: 9.000024795532227px;
+  left: 0px;
+  width: 159.5px;
+  height: 43.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-text019 {
+  top: 23.5px;
+  left: 0.5px;
+  color: var(--dl-color-gray-gray700);
+  width: 159px;
+  height: auto;
+  position: absolute;
+  font-size: 14.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-breadcrumb-item-previous {
+  gap: 5px;
+  top: 0px;
+  left: 0px;
+  width: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-text021 {
+  color: rgba(160, 174, 192, 1);
+  height: auto;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-text022 {
+  color: var(--dl-color-gray-gray400);
+}
+.dashboard-admin-pemuda-pelopormodal-text023 {
+  color: rgba(0, 0, 0, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-sidebar {
+  top: 43.999969482421875px;
+  left: 0px;
+  width: 233.25px;
+  height: 689.0000610351562px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-menu2 {
+  top: 85.00006866455078px;
+  left: 4.499948501586914px;
+  width: 219.5px;
+  height: 604px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-sign-up {
+  top: 574px;
+  left: 19px;
+  width: 87.5px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-radius: 12.000000953674316px;
+}
+.dashboard-admin-pemuda-pelopormodal-ion-icon-rrocketsharp {
+  top: 7.5px;
+  left: 7.5px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-text025 {
+  top: 6.000006198883057px;
+  left: 41.99995040893555px;
+  color: var(--dl-color-gray-gray400);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-sign-in {
+  top: 385px;
+  left: 18.5px;
+  width: 173.4998779296875px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-rectangle31 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-radius: 12.000000953674316px;
+}
+.dashboard-admin-pemuda-pelopormodal-ion-icon-ddocumentdefault {
+  top: 7.499975681304932px;
+  left: 7.5px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-text027 {
+  top: 6px;
+  left: 42.4998779296875px;
+  color: var(--dl-color-gray-gray400);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-profile {
+  top: 331px;
+  left: 18.5px;
+  width: 173.4998779296875px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-rectangle32 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-radius: 12.000000953674316px;
+}
+.dashboard-admin-pemuda-pelopormodal-ion-icon-ppersondefault1 {
+  top: 7.500012397766113px;
+  left: 7.5px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-text029 {
+  top: 6px;
+  left: 42.4998779296875px;
+  color: var(--dl-color-gray-gray400);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-text031 {
+  top: 289px;
+  left: 18.5px;
+  color: rgba(255, 255, 255, 1);
+  width: 105px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-rectangle2 {
+  top: 152px;
+  left: 0px;
+  width: 219px;
+  height: 54px;
+  position: absolute;
+  border-radius: 15.000000953674316px;
+}
+.dashboard-admin-pemuda-pelopormodal-tables {
+  top: 53.999977111816406px;
+  left: 18.5001220703125px;
+  width: 181.4998779296875px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-mdiusers {
+  top: 24px;
+  left: 30px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dashboard-admin-pemuda-pelopormodal-text033 {
+  top: 6px;
+  left: 42.4998779296875px;
+  color: var(--dl-color-gray-gray400);
+  width: 139px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-group2027 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-vector {
+  top: 8px;
+  left: 7.4998779296875px;
+  width: 16px;
+  height: 13px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-tables1 {
+  top: 107.9999771118164px;
+  left: 19px;
+  width: 181.4998779296875px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-mdiusers1 {
+  top: 24px;
+  left: 30px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dashboard-admin-pemuda-pelopormodal-text035 {
+  top: 6px;
+  left: 42.4998779296875px;
+  color: var(--dl-color-gray-gray400);
+  width: 139px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-group20271 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-vector1 {
+  top: 8px;
+  left: 7.4998779296875px;
+  width: 16px;
+  height: 13px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-tables2 {
+  top: 222px;
+  left: 19px;
+  width: 181.4998779296875px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-mdiusers2 {
+  top: 24px;
+  left: 30px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dashboard-admin-pemuda-pelopormodal-text037 {
+  top: 6px;
+  left: 42.4998779296875px;
+  color: var(--dl-color-gray-gray400);
+  width: 139px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-group20272 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-vector2 {
+  top: 8px;
+  left: 7.4998779296875px;
+  width: 16px;
+  height: 13px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-tables3 {
+  top: 164.99996948242188px;
+  left: 19px;
+  width: 181.4998779296875px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-mdiusers3 {
+  top: 24px;
+  left: 30px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dashboard-admin-pemuda-pelopormodal-text039 {
+  top: 6px;
+  left: 42.4998779296875px;
+  color: var(--dl-color-gray-gray400);
+  width: 139px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-group20273 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-vector3 {
+  top: 8px;
+  left: 7.4998779296875px;
+  width: 16px;
+  height: 13px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-dashboard {
+  top: 0px;
+  left: 18.5px;
+  width: 104.99995422363281px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-rectangle33 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-radius: 12.000000953674316px;
+}
+.dashboard-admin-pemuda-pelopormodal-ion-icon-hhomedefault {
+  top: 7.5px;
+  left: 7.5px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-text041 {
+  top: 5.999975204467773px;
+  left: 41.99995422363281px;
+  color: rgba(160, 174, 192, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-logo {
+  top: 0px;
+  left: 17.500045776367188px;
+  width: 198px;
+  height: 23.000059127807617px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-text043 {
+  top: 2.000058174133301px;
+  left: 34px;
+  color: rgba(255, 255, 255, 1);
+  width: 164px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Condensed Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: condensed;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-logocreativetimblack {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 22.001371383666992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-icon1 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 22.001371383666992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-shape {
+  top: 1.4921397450962104e-13px;
+  left: -2.984279490192421e-13px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-path {
+  top: 4.137571334838867px;
+  left: 3.081974983215332px;
+  width: 5px;
+  height: 3px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-path1 {
+  top: 4.137571334838867px;
+  left: 13.460993766784668px;
+  width: 5px;
+  height: 3px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-path2 {
+  top: 14.486326217651367px;
+  left: 8.285944938659668px;
+  width: 5px;
+  height: 3px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-vector6 {
+  top: 50.50006103515625px;
+  left: 0px;
+  width: 233px;
+  height: 1px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.dashboard-admin-pemuda-pelopormodal-line10 {
+  top: 559px;
+  left: 29px;
+  width: 201px;
+  height: 1px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-first-card {
+  top: 159px;
+  left: 360px;
+  width: 1453px;
+  height: 519px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-background1 {
+  top: 0px;
+  left: 0px;
+  width: 1453px;
+  height: 519px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-list {
+  top: 107px;
+  left: 20.99990463256836px;
+  width: 1403px;
+  height: 213.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-items {
+  top: 46.49999237060547px;
+  left: 0px;
+  width: 1402.500244140625px;
+  height: 167.00001525878906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-fix-platform-errors {
+  top: 124.00001525878906px;
+  left: 0px;
+  width: 1402.500244140625px;
+  height: 43px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-line {
+  top: 43px;
+  left: 1.500244140625px;
+  width: 1401px;
+  height: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-vector5 {
+  top: 0px;
+  left: 0px;
+  width: 1401px;
+  height: 1px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-content01 {
+  top: 0px;
+  left: 0px;
+  width: 968.0001831054688px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-progress {
+  top: 0px;
+  left: 843.0001831054688px;
+  width: 125px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-line2 {
+  top: 24px;
+  left: -0.000048904537834459916px;
+  width: 125px;
+  height: 1px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-line3 {
+  top: 24px;
+  left: -0.000048904537834459916px;
+  width: 125px;
+  height: 1px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-text045 {
+  color: var(--dl-color-teal-teal300);
+  width: 36px;
+  height: auto;
+  position: absolute;
+  font-size: 14.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-budget {
+  top: 2.5px;
+  left: 665.9999389648438px;
+  width: 148px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-text047 {
+  color: var(--dl-color-gray-gray700);
+  width: 148px;
+  height: auto;
+  position: absolute;
+  font-size: 14.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-title {
+  top: 2.5px;
+  left: 0px;
+  width: 127px;
+  height: 19.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-text049 {
+  color: var(--dl-color-gray-gray700);
+  width: 127px;
+  height: auto;
+  position: absolute;
+  font-size: 14.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-title1 {
+  top: 2.5px;
+  left: 452px;
+  width: 127px;
+  height: 19.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-text051 {
+  color: var(--dl-color-gray-gray700);
+  width: 127px;
+  height: auto;
+  position: absolute;
+  font-size: 14.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-progress-track {
+  top: 61.99998474121094px;
+  left: 0.000244140625px;
+  width: 1402.5px;
+  height: 43px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-line1 {
+  top: 43px;
+  left: 1.5px;
+  width: 1401px;
+  height: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-vector51 {
+  top: 0px;
+  left: 0px;
+  width: 1401px;
+  height: 1px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-content02 {
+  top: 0px;
+  left: 0px;
+  width: 967.9999389648438px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-progress1 {
+  top: 0px;
+  left: 842.9999389648438px;
+  width: 125px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-line21 {
+  top: 24.000003814697266px;
+  left: -0.000048904537834459916px;
+  width: 125px;
+  height: 1px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-line31 {
+  top: 24.000003814697266px;
+  left: -0.000048904537834459916px;
+  width: 18px;
+  height: 1px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-text053 {
+  color: var(--dl-color-teal-teal300);
+  width: 28px;
+  height: auto;
+  position: absolute;
+  font-size: 14.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-budget1 {
+  top: 2.5px;
+  left: 665.9996948242188px;
+  width: 148px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-text055 {
+  color: var(--dl-color-gray-gray700);
+  width: 148px;
+  height: auto;
+  position: absolute;
+  font-size: 14.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-title2 {
+  top: 2.5px;
+  left: 0px;
+  width: 132.5px;
+  height: 19.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-text057 {
+  color: var(--dl-color-gray-gray700);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 14.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-title3 {
+  top: 2.5px;
+  left: 451.999755859375px;
+  width: 132.5px;
+  height: 19.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-text059 {
+  color: var(--dl-color-gray-gray700);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 14.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-soft-uixd {
+  top: 0px;
+  left: 0.00019550323486328125px;
+  width: 1402.5px;
+  height: 43px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-line2 {
+  top: 43px;
+  left: 1.5px;
+  width: 1401px;
+  height: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-vector4 {
+  top: 0px;
+  left: 0px;
+  width: 1401px;
+  height: 1px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-content03 {
+  top: 0px;
+  left: 0px;
+  width: 967.9999389648438px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-progress2 {
+  top: 0px;
+  left: 842.9999389648438px;
+  width: 125px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-line22 {
+  top: 24.0000057220459px;
+  left: -0.000048904537834459916px;
+  width: 125px;
+  height: 1px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-line32 {
+  top: 24.0000057220459px;
+  left: -0.000048904537834459916px;
+  width: 82px;
+  height: 1px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-text061 {
+  color: var(--dl-color-teal-teal300);
+  width: 28px;
+  height: auto;
+  position: absolute;
+  font-size: 14.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-budget2 {
+  top: 2.5px;
+  left: 665.9996948242188px;
+  width: 124px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-text063 {
+  color: var(--dl-color-gray-gray700);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 14.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-title4 {
+  top: 3.5px;
+  left: 0px;
+  width: 151.5px;
+  height: 19.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-text065 {
+  color: var(--dl-color-gray-gray700);
+  width: 151px;
+  height: auto;
+  position: absolute;
+  font-size: 14.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-title5 {
+  top: 3.5px;
+  left: 451.999755859375px;
+  width: 151.5px;
+  height: 19.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-text067 {
+  color: var(--dl-color-gray-gray700);
+  width: 151px;
+  height: auto;
+  position: absolute;
+  font-size: 14.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-lines {
+  top: 27.000003814697266px;
+  left: 1.9999513626098633px;
+  width: 1401px;
+  height: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-vector3 {
+  top: 0px;
+  left: 0px;
+  width: 1401px;
+  height: 1px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-titles {
+  top: 0px;
+  left: 1.5001468658447266px;
+  width: 1233.499755859375px;
+  height: 15.00000286102295px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-text069 {
+  left: 841.5px;
+  color: var(--dl-color-gray-gray400);
+  width: 162px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-text071 {
+  left: 1071.499755859375px;
+  color: var(--dl-color-gray-gray400);
+  width: 162px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-text073 {
+  top: 0.00000305653384202742px;
+  left: 663.9999389648438px;
+  color: var(--dl-color-gray-gray400);
+  width: 42px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-text075 {
+  top: 0.00000305653384202742px;
+  left: 450.00006103515625px;
+  color: var(--dl-color-gray-gray400);
+  width: 51px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-text077 {
+  color: var(--dl-color-gray-gray400);
+  width: 60px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-text079 {
+  top: 28px;
+  left: 21.000024795532227px;
+  width: 348px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-text080 {
+  color: var(--dl-color-gray-gray700);
+  width: 348px;
+  height: auto;
+  position: absolute;
+  font-size: 18.000001907348633px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-icon2 {
+  top: 22.5px;
+  left: 1014.5px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-morevert {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-desktop {
+  top: 726px;
+  left: 1398px;
+  width: 373px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  border-color: rgba(228, 228, 231, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+.dashboard-admin-pemuda-pelopormodal-start-default {
+  height: 38px;
+  display: flex;
+  padding: 8px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(212, 212, 216, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px 0 0 6px;
+  background-color: var(--dl-color-default-white);
+}
+.dashboard-admin-pemuda-pelopormodal-chevronleft {
+  width: 20px;
+  height: 20px;
+}
+.dashboard-admin-pemuda-pelopormodal-middle-default {
+  display: flex;
+  padding: 8px 16px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  background-color: rgba(71, 99, 228, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-text082 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.dashboard-admin-pemuda-pelopormodal-divider {
+  width: 1px;
+  height: 38px;
+}
+.dashboard-admin-pemuda-pelopormodal-middle-default1 {
+  display: flex;
+  padding: 8px 16px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  background-color: var(--dl-color-default-white);
+}
+.dashboard-admin-pemuda-pelopormodal-text083 {
+  color: var(--dl-color-gray-800);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.dashboard-admin-pemuda-pelopormodal-divider1 {
+  width: 1px;
+  height: 38px;
+}
+.dashboard-admin-pemuda-pelopormodal-middle-default2 {
+  display: flex;
+  padding: 8px 16px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  background-color: var(--dl-color-default-white);
+}
+.dashboard-admin-pemuda-pelopormodal-text084 {
+  color: var(--dl-color-gray-800);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.dashboard-admin-pemuda-pelopormodal-divider2 {
+  width: 1px;
+  height: 38px;
+}
+.dashboard-admin-pemuda-pelopormodal-middle-default3 {
+  display: flex;
+  padding: 8px 16px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  background-color: var(--dl-color-default-white);
+}
+.dashboard-admin-pemuda-pelopormodal-text085 {
+  color: var(--dl-color-gray-800);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.dashboard-admin-pemuda-pelopormodal-divider3 {
+  width: 1px;
+  height: 38px;
+}
+.dashboard-admin-pemuda-pelopormodal-middle-default4 {
+  display: flex;
+  padding: 8px 16px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  background-color: var(--dl-color-default-white);
+}
+.dashboard-admin-pemuda-pelopormodal-text087 {
+  color: var(--dl-color-gray-800);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.dashboard-admin-pemuda-pelopormodal-divider4 {
+  width: 1px;
+  height: 38px;
+}
+.dashboard-admin-pemuda-pelopormodal-middle-default5 {
+  display: flex;
+  padding: 8px 16px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  background-color: var(--dl-color-default-white);
+}
+.dashboard-admin-pemuda-pelopormodal-text088 {
+  color: var(--dl-color-gray-800);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.dashboard-admin-pemuda-pelopormodal-divider5 {
+  width: 1px;
+  height: 38px;
+}
+.dashboard-admin-pemuda-pelopormodal-middle-default6 {
+  display: flex;
+  padding: 8px 16px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  background-color: var(--dl-color-default-white);
+}
+.dashboard-admin-pemuda-pelopormodal-text089 {
+  color: var(--dl-color-gray-800);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.dashboard-admin-pemuda-pelopormodal-end-default {
+  height: 38px;
+  display: flex;
+  padding: 8px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(212, 212, 216, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 6px 6px 0;
+  background-color: var(--dl-color-default-white);
+}
+.dashboard-admin-pemuda-pelopormodal-chevronright {
+  width: 20px;
+  height: 20px;
+}
+.dashboard-admin-pemuda-pelopormodal-kepemudaan2 {
+  top: 34px;
+  left: 21px;
+  width: 53px;
+  height: 45px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-sign-in1 {
+  top: 643px;
+  left: 48px;
+  width: 173.4998779296875px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-rectangle34 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-radius: 12.000000953674316px;
+}
+.dashboard-admin-pemuda-pelopormodal-ion-icon-ddocumentdefault1 {
+  top: 7.499975681304932px;
+  left: 7.5px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-text091 {
+  top: 6px;
+  left: 42.4998779296875px;
+  color: var(--dl-color-gray-gray400);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-sign-in2 {
+  top: 583px;
+  left: 48px;
+  width: 173.4998779296875px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-rectangle35 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-radius: 12.000000953674316px;
+}
+.dashboard-admin-pemuda-pelopormodal-ion-icon-ddocumentdefault2 {
+  top: 7.499975681304932px;
+  left: 7.5px;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-text093 {
+  top: 6px;
+  left: 42.4998779296875px;
+  color: var(--dl-color-gray-gray400);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 12.000000953674316px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-button {
+  top: 99px;
+  left: 363px;
+  width: 462px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.20000000298023224) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(0, 87, 255, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-unstyled-button {
+  gap: 8px;
+  display: flex;
+  padding: 8px 22px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-content04 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.dashboard-admin-pemuda-pelopormodal-text095 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: left;
+  line-height: 26px;
+}
+.dashboard-admin-pemuda-pelopormodal-button01 {
+  top: 301px;
+  left: 1441px;
+  width: 91px;
+  height: 31px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.20000000298023224) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(0, 87, 255, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-unstyled-button01 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 22px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-content05 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.dashboard-admin-pemuda-pelopormodal-text097 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-button02 {
+  top: 378px;
+  left: 1441px;
+  width: 91px;
+  height: 31px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.20000000298023224) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(0, 87, 255, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-unstyled-button02 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 22px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-content06 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.dashboard-admin-pemuda-pelopormodal-text099 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-button03 {
+  top: 301px;
+  left: 1539px;
+  width: 91px;
+  height: 31px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.20000000298023224) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 179, 32, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-unstyled-button03 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 22px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-content07 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.dashboard-admin-pemuda-pelopormodal-text101 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-button04 {
+  top: 378px;
+  left: 1539px;
+  width: 91px;
+  height: 31px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.20000000298023224) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 179, 32, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-unstyled-button04 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 22px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-content08 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.dashboard-admin-pemuda-pelopormodal-text103 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-button05 {
+  top: 437px;
+  left: 1441px;
+  width: 91px;
+  height: 31px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.20000000298023224) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 179, 32, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-unstyled-button05 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 22px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-content09 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.dashboard-admin-pemuda-pelopormodal-text105 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-button06 {
+  top: 301px;
+  left: 1637px;
+  width: 91px;
+  height: 31px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.20000000298023224) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 0, 0, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-unstyled-button06 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 22px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-content10 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.dashboard-admin-pemuda-pelopormodal-text107 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-button07 {
+  top: 378px;
+  left: 1637px;
+  width: 91px;
+  height: 31px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.20000000298023224) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 0, 0, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-unstyled-button07 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 22px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-content11 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.dashboard-admin-pemuda-pelopormodal-text109 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-button08 {
+  top: 437px;
+  left: 1539px;
+  width: 91px;
+  height: 31px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.20000000298023224) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 0, 0, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-unstyled-button08 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 22px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-content12 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.dashboard-admin-pemuda-pelopormodal-text111 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 10px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dashboard-admin-pemuda-pelopormodal-rectangle1140 {
+  top: 0px;
+  left: 3px;
+  width: 1920px;
+  height: 1580px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-rectangle1141 {
+  top: 256px;
+  left: 629px;
+  width: 711px;
+  height: 739px;
+  position: absolute;
+}
+.dashboard-admin-pemuda-pelopormodal-typography {
+  top: 354px;
+  left: 734px;
+  width: 137px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-text113 {
+  color: var(--dl-color-text-primary);
+  height: auto;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}
+.dashboard-admin-pemuda-pelopormodal-navlink {
+  display: contents;
+}
+.dashboard-admin-pemuda-pelopormodal-button09 {
+  top: 830px;
+  left: 734px;
+  width: 462px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.20000000298023224) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+  background-color: rgba(0, 87, 255, 1);
+}
+.dashboard-admin-pemuda-pelopormodal-unstyled-button09 {
+  gap: 8px;
+  display: flex;
+  padding: 8px 22px;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-content13 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
+.dashboard-admin-pemuda-pelopormodal-text115 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: left;
+  line-height: 26px;
+}
+.dashboard-admin-pemuda-pelopormodal-firstandlastname {
+  top: 414px;
+  left: 734px;
+  width: 462px;
+  height: 56px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dashboard-admin-pemuda-pelopormodal-text-field-outlined {
+  top: 0px;
+  left: 0px;
+  width: 220px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-input {
+  display: flex;
+  padding: 0 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 0.23000000417232513);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-inactive {
+  gap: 8px;
+  display: flex;
+  padding: 16px 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dashboard-admin-pemuda-pelopormodal-text117 {
+  color: var(--dl-color-default-secondarycolortext);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}
+.dashboard-admin-pemuda-pelopormodal-text-field-outlined1 {
+  gap: 3px;
+  top: 0px;
+  left: 242px;
+  width: 220px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-input1 {
+  display: flex;
+  padding: 0 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 0.23000000417232513);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-inactive1 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dashboard-admin-pemuda-pelopormodal-text119 {
+  color: var(--dl-color-default-secondarycolortext);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}
+.dashboard-admin-pemuda-pelopormodal-text-field-outlined2 {
+  gap: 3px;
+  top: 498px;
+  left: 734px;
+  width: 462px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-input2 {
+  display: flex;
+  padding: 0 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 0.23000000417232513);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-label-container {
+  gap: 10px;
+  height: 2px;
+  display: flex;
+  padding: 0 4px;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: var(--dl-color-background-paper);
+}
+.dashboard-admin-pemuda-pelopormodal-text121 {
+  color: var(--dl-color-text-secondary);
+  height: auto;
+  text-align: left;
+  line-height: 12px;
+}
+.dashboard-admin-pemuda-pelopormodal-active {
+  gap: 8px;
+  display: flex;
+  padding: 15px 0;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-admin-pemuda-pelopormodal-text123 {
+  color: var(--dl-color-text-primary);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}
+.dashboard-admin-pemuda-pelopormodal-text-field-outlined3 {
+  gap: 3px;
+  top: 732px;
+  left: 734px;
+  width: 462px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-input3 {
+  display: flex;
+  padding: 0 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(226, 226, 234, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-label-container1 {
+  gap: 10px;
+  height: 2px;
+  display: flex;
+  padding: 0 4px;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: var(--dl-color-background-paper);
+}
+.dashboard-admin-pemuda-pelopormodal-text125 {
+  color: rgba(146, 146, 157, 1);
+  height: auto;
+  text-align: left;
+  line-height: 12px;
+}
+.dashboard-admin-pemuda-pelopormodal-active1 {
+  gap: 8px;
+  display: flex;
+  padding: 15px 0;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-admin-pemuda-pelopormodal-text127 {
+  color: var(--dl-color-text-primary);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}
+.dashboard-admin-pemuda-pelopormodal-text-field-outlined4 {
+  gap: 3px;
+  top: 578px;
+  left: 734px;
+  width: 462px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-input4 {
+  display: flex;
+  padding: 0 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(226, 226, 234, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-label-container2 {
+  gap: 10px;
+  height: 2px;
+  display: flex;
+  padding: 0 4px;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: var(--dl-color-background-paper);
+}
+.dashboard-admin-pemuda-pelopormodal-text129 {
+  color: rgba(146, 146, 157, 1);
+  height: auto;
+  text-align: left;
+  line-height: 12px;
+}
+.dashboard-admin-pemuda-pelopormodal-active2 {
+  gap: 8px;
+  display: flex;
+  padding: 15px 0;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-admin-pemuda-pelopormodal-text131 {
+  color: var(--dl-color-text-primary);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}
+.dashboard-admin-pemuda-pelopormodal-text-field-outlined5 {
+  gap: 3px;
+  top: 655px;
+  left: 734px;
+  width: 462px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-input5 {
+  display: flex;
+  padding: 0 12px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(226, 226, 234, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  flex-direction: column;
+}
+.dashboard-admin-pemuda-pelopormodal-label-container3 {
+  gap: 10px;
+  height: 2px;
+  display: flex;
+  padding: 0 4px;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: var(--dl-color-background-paper);
+}
+.dashboard-admin-pemuda-pelopormodal-text133 {
+  color: rgba(146, 146, 157, 1);
+  height: auto;
+  text-align: left;
+  line-height: 12px;
+}
+.dashboard-admin-pemuda-pelopormodal-active3 {
+  gap: 8px;
+  display: flex;
+  padding: 15px 0;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-admin-pemuda-pelopormodal-text135 {
+  color: var(--dl-color-text-primary);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}
+.dashboard-admin-pemuda-pelopormodal-text137 {
+  top: 278px;
+  left: 1297px;
+  color: rgba(140, 140, 140, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 500;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
